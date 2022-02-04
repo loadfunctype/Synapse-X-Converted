@@ -1,4 +1,4 @@
-local wh = 'https://discord.com/api/webhooks/939296474095812648/P1tdxwRMjqgUElFbE3W27x5ehnk_Y8pgufcGsTo8dVwCND5R0ulMXqgyQ6JWqpPUGNnz'
+local wh = 'web hook here lol'
 
 
 local embed1 = {
