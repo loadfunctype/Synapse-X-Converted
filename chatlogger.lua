@@ -1,4 +1,4 @@
-local wh = 'web hook here lol'
+local wh = 'webhook here lol'
 
 
 local embed1 = {
