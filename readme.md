@@ -7,4 +7,4 @@ Reference Base: https://krnl.ca/predocs/ | Sources: https://robloxscripts.com/
 
   ### lol
   
- making this since i dont have synapse so lolo
+i just got synapse i don't need this anymore, but if you're a krnl user feel free to use it
