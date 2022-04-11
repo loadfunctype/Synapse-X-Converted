@@ -1,7 +1,7 @@
 --[[
     Message Translator
     Made by Aim, updated by cli
-    Credits to Riptxde for the sending chathook, and juN for converting to Krnl
+    Credits to Riptxde for the sending chathook, and juN/Felipe Rumanov for converting to Krnl
 --]]
 
 if not game['Loaded'] then game['Loaded']:Wait() end; repeat wait(.06) until game:GetService('Players').LocalPlayer ~= nil
