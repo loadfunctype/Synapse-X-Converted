@@ -327,9 +327,7 @@ function disableSend()
     StarterGui:SetCore("ChatMakeSystemMessage", properties)
 end
 
-local CBar, CRemote, Connected = LP['PlayerGui']:WaitForChild('Chat')['Frame'].ChatBarParentFrame['Frame'].BoxFrame['Frame'].ChatBar, game:GetService('ReplicatedStorage').DefaultChatSystemChatEvents['SayMessage
-
-'], {}
+local CBar, CRemote, Connected = LP['PlayerGui']:WaitForChild('Chat')['Frame'].ChatBarParentFrame['Frame'].BoxFrame['Frame'].ChatBar, game:GetService('ReplicatedStorage').DefaultChatSystemChatEvents['SayMessageRequest'], {}
 
 local HookChat = function(Bar)
     coroutine.wrap(function()
