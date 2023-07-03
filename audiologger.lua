@@ -1,3 +1,5 @@
+-- Converted by razerbignamer
+
 local webhook = "webhook here lmao" -- put your webhook (discord) here
 
 -- vvv dont mess with any of this unless you know what you're doing vvv --
